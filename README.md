@@ -104,6 +104,20 @@ Me interesa especialmente el análisis de problemas, la búsqueda de soluciones 
   Ideas · Historias · Mundos
 </p>
 
+---
+
+## 🚀 Proyectos destacados
+
+### 🐺 Aullido de ElderGrove
+
+`Unity` `C#` `En desarrollo` `Proyecto privado`
+
+Proyecto principal desarrollado bajo **ElderGrove Studio**.
+
+Actualmente se encuentra en proceso de desarrollo. Por el momento, el repositorio y los detalles principales del proyecto se mantienen privados.
+
+> 🎮 Más información próximamente.
+
 ElderGrove Studio es mi espacio creativo para desarrollar videojuegos, conceptos e ideas propias.  
 Busco crear experiencias que combinen **historia, exploración, dirección artística y construcción de mundos**.
 
