@@ -87,3 +87,24 @@ Me interesa especialmente el análisis de problemas, la búsqueda de soluciones 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white">
 </p>
+
+---
+
+## 🐺 ElderGrove Studio
+
+<p align="center">
+  <img src="eldergrove-logo.jpeg" width="420" alt="Logo de ElderGrove Studio">
+</p>
+
+<p align="center">
+  <b>Estudio independiente de videojuegos fundado por Pierito Araujo.</b>
+</p>
+
+<p align="center">
+  Ideas · Historias · Mundos
+</p>
+
+ElderGrove Studio es mi espacio creativo para desarrollar videojuegos, conceptos e ideas propias.  
+Busco crear experiencias que combinen **historia, exploración, dirección artística y construcción de mundos**.
+
+Actualmente estoy trabajando en mi proyecto principal, **Aullido de ElderGrove**, un videojuego que continúa en desarrollo y cuyo contenido se mantiene de forma privada por el momento.
