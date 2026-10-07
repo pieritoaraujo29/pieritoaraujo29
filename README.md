@@ -93,7 +93,7 @@ Me interesa especialmente el análisis de problemas, la búsqueda de soluciones 
 ## 🐺 ElderGrove Studio
 
 <p align="center">
-  <img src="eldergrove-logo.jpeg" width="420" alt="Logo de ElderGrove Studio">
+  <img src="eldergrove-logo.jpeg" width="350" alt="Logo de ElderGrove Studio">
 </p>
 
 <p align="center">
